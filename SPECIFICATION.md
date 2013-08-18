@@ -25,4 +25,4 @@ An example
 The next example shows how to represent an arithmetic expressions
 using the T operator.
 
-![T example](Graphics/T_examples.png)
+![T example](Graphics/T_example.png)
