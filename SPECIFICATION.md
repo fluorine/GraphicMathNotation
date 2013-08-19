@@ -73,4 +73,4 @@ This operator generalizes three conventional operations:
 * b-root of c = a
 * logarithm base-a of c = b
 
-There are no symmetric operands in the Y operator.
+There are no commutative operands in the Y operator.
