@@ -62,7 +62,6 @@ using the V operator.
 
 ## The Y operator
 This operator generalizes three conventional operations:
-* Logarithms
 * Exponentiation
 * nth root
 * Logarithm
