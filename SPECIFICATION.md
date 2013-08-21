@@ -36,7 +36,6 @@ using the T operator.
 ![T example](Graphics/T_example.png)
 
 
-
 ## The V operator
 
 This operator generalizes two conventional operations:
@@ -73,3 +72,8 @@ This operator generalizes three conventional operations:
 * logarithm base-a of c = b
 
 There are no commutative operands in the Y operator.
+
+## Compound examples
+
+You can see compund examples of multiple operators
+[here](EXAMPLES.md).
