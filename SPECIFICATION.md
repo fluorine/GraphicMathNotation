@@ -1,13 +1,21 @@
-This text contains the specification for
-my new math notation.
+This text contains the specification for my new math notation.
+
+You can use it to describe mathematical relaations.
+This notation is a way to write **expressions**,
+rather than to explain or describe how math operations 
+shoul work.
 
 ## General rules
-* All operands are integers or variables. No decimals or
-  negative numbers are allowed, since there are different
-  ways to represent them using the operators.
-* All operators are simple open figures. They can have
-  symmetric branches, and all symmetric branches are
-  commutative.
+* All operands are positive integers, constansts or variables.
+  No decimals or negative numbers are allowed, since there are
+  different ways to represent them using the given operators.
+* Variables can be words, or even phrases.
+* All operators are simple geometrical figures. All symmetric
+  branches represent commutative (or exchangable) operands.
+* Isolation of variables is not required, and the concept itself
+  is meaningless in this notation. However, this notation may help
+  us isolate any variable when describing the expression
+  using the traditional math notation.
 
 ##The T operator
 
@@ -15,17 +23,18 @@ This operator generalizes two conventional operations:
 * Addition
 * Subtraction
 
-The T operator can be written in four different ways:
+The T operator can be written in four different (but equivalent)
+ways. The visual differences are aesthetic:
 
 ![T operator](Graphics/T_operator.png)
 
 Any of the four previous T figures represent, at the same time,
-any of these expressions:
+any of these equations in the traditional math notation:
 * a = b + c
 * a - b = c
 * a - c = b
 
-The symmetric branches of the T operator are always commutative.
+The symmetric branches of the T operator are commutative.
 In the previous figures, `b` and `c` are commutative.
 
 #### An example
