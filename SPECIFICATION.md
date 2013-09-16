@@ -1,21 +1,15 @@
 This text contains the specification for my new math notation.
 
-You can use it to describe mathematical relaations.
-This notation is a way to write **expressions**,
-rather than to explain or describe how math operations 
-shoul work.
+You can use it to describe mathematical relations.
+This notation is a way to write math **expressions**.
 
 ## General rules
 * All operands are positive integers, constansts or variables.
   No decimals or negative numbers are allowed, since there are
   different ways to represent them using the given operators.
 * Variables can be words, or even phrases.
-* All operators are simple geometrical figures. All symmetric
-  branches represent commutative (or exchangable) operands.
-* Isolation of variables is not required, and the concept itself
-  is meaningless in this notation. However, this notation may help
-  us isolate any variable when describing the expression
-  using the traditional math notation.
+* All operators are simple open geometrical figures. All symmetric
+  branches represent commutative (exchangable) operands.
 
 ##The T operator
 
