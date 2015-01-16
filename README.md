@@ -16,7 +16,7 @@ This example uses the main three operators to represent
 all the math expressions shown at bottom of image:
 ![An example](Graphics/front_example.png)
 
-Adventages
+Advantages
 ----------
 This notation has many adventages over orthodox
 arithmetic notation:
