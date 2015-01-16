@@ -18,13 +18,13 @@ all the math expressions shown at bottom of image:
 
 Advantages
 ----------
-This notation has many adventages over orthodox
+This notation has many advantages over orthodox
 arithmetic notation:
-* Operator's precedence doesn't exist.
-* Order of operations is explicit (since it's
-  a non linear notation).
-* Variable isolation is non existent.
-* Many orthodox equations can be represented using just a
+* Operator's precedence doesn't exist, it is not requiered.
+* Order of operations is explicit; it's
+  a non linear notation.
+* Variable isolation to transform equations to other equivalent forms, is not requiered.
+* Many orthodox equations can be represented at the same time using just a
   simple expression in this new notation.
 * This new notation has less operators.
 
