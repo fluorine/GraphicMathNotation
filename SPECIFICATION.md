@@ -4,12 +4,14 @@ You can use it to describe mathematical relations.
 This notation is a way to write math **expressions**.
 
 ## General rules
-* All operands are positive integers, constansts or variables.
-  No decimals or negative numbers are allowed, since there are
-  different ways to represent them using the given operators.
-* Variables can be words, or even phrases.
-* All operators are simple open geometrical figures. All symmetric
+* All operators are simple open figures. All symmetric
   branches represent commutative (exchangable) operands.
+* All operands are positive integers, constansts or variables.
+  No decimals are allowed, since there are different ways to
+  represent them using the given operators. Negative numbers are
+  allowed as such, but they may be expressed using operators.
+* Variables can be words, or even phrases.
+
 
 ##The T operator
 
